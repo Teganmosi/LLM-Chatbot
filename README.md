@@ -1,7 +1,7 @@
 # LLM-Chatbot
 This GitHub repository contains code for performing question answering with sources using the LangChain library. The code leverages various tools and libraries, such as Google Search, newspaper3k, and OpenAI, to retrieve relevant information and generate accurate responses.
 
-
+You can try try out here: https://huggingface.co/spaces/teganmosi/chatbott
 ## Installation
 
 To run this code, you need to install the required dependencies. You can install them using the following command:
